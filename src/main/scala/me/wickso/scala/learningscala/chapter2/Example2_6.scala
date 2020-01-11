@@ -1,6 +1,6 @@
-package me.wickso.scala.learningscala.chapter1
+package me.wickso.scala.learningscala.chapter2
 
-object Example1_6 {
+object Example2_6 {
   def main(args: Array[String]): Unit = {
     val Pattern = "(\\d{3})-(\\d{3})-(\\d{4})".r
     val input = "Frank,123 Main,925-555-1943,95122"

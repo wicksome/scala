@@ -1,6 +1,6 @@
-package me.wickso.scala.learningscala.chapter1
+package me.wickso.scala.learningscala.chapter2
 
-object Example1_1 {
+object Example2_1 {
   def main(args: Array[String]): Unit = {
     println(convertFahrenheitToCelsius(32))
     println(convertCelsiusToFahrenheit(100))

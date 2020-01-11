@@ -1,6 +1,6 @@
-package me.wickso.scala.learningscala.chapter1
+package me.wickso.scala.learningscala.chapter2
 
-object Example1_5 {
+object Example2_5 {
   def main(args: Array[String]): Unit = {
     val num: Int = 128
     println(num)
